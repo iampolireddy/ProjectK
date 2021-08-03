@@ -1,6 +1,11 @@
 Link : https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
 
 
-day1 AUG 2021 1 :
+Day1 : AUG 1 2021
 
-1.
+ 1.Check if a key is present in every segment of size k in an array
+ 2.Find minimum and maximum element in an array
+ 3.Write a program to reverse the array
+ 4.Write a program to sort the given array
+ 4.1 merge sort
+ 5.Find the Kth largest and Kth smallest number in an array
